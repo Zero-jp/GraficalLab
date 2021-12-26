@@ -1,0 +1,20 @@
+C:\Users\Игорь Кочугин\OneDrive\Рабочий стол\учёба\КГ\GraficalLab\bin\Debug\GraficalLab.exe.config
+C:\Users\Игорь Кочугин\OneDrive\Рабочий стол\учёба\КГ\GraficalLab\bin\Debug\GraficalLab.exe
+C:\Users\Игорь Кочугин\OneDrive\Рабочий стол\учёба\КГ\GraficalLab\bin\Debug\GraficalLab.pdb
+C:\Users\Игорь Кочугин\OneDrive\Рабочий стол\учёба\КГ\GraficalLab\obj\Debug\GraficalLab.csproj.AssemblyReference.cache
+C:\Users\Игорь Кочугин\OneDrive\Рабочий стол\учёба\КГ\GraficalLab\obj\Debug\GraficalLab.Form1.resources
+C:\Users\Игорь Кочугин\OneDrive\Рабочий стол\учёба\КГ\GraficalLab\obj\Debug\GraficalLab.Properties.Resources.resources
+C:\Users\Игорь Кочугин\OneDrive\Рабочий стол\учёба\КГ\GraficalLab\obj\Debug\GraficalLab.csproj.GenerateResource.cache
+C:\Users\Игорь Кочугин\OneDrive\Рабочий стол\учёба\КГ\GraficalLab\obj\Debug\GraficalLab.csproj.CoreCompileInputs.cache
+C:\Users\Игорь Кочугин\OneDrive\Рабочий стол\учёба\КГ\GraficalLab\obj\Debug\GraficalLab.exe
+C:\Users\Игорь Кочугин\OneDrive\Рабочий стол\учёба\КГ\GraficalLab\obj\Debug\GraficalLab.pdb
+E:\учёба\КГ\GraficalLab\bin\Debug\GraficalLab.exe.config
+E:\учёба\КГ\GraficalLab\bin\Debug\GraficalLab.exe
+E:\учёба\КГ\GraficalLab\bin\Debug\GraficalLab.pdb
+E:\учёба\КГ\GraficalLab\obj\Debug\GraficalLab.csprojAssemblyReference.cache
+E:\учёба\КГ\GraficalLab\obj\Debug\GraficalLab.Form1.resources
+E:\учёба\КГ\GraficalLab\obj\Debug\GraficalLab.Properties.Resources.resources
+E:\учёба\КГ\GraficalLab\obj\Debug\GraficalLab.csproj.GenerateResource.cache
+E:\учёба\КГ\GraficalLab\obj\Debug\GraficalLab.csproj.CoreCompileInputs.cache
+E:\учёба\КГ\GraficalLab\obj\Debug\GraficalLab.exe
+E:\учёба\КГ\GraficalLab\obj\Debug\GraficalLab.pdb
